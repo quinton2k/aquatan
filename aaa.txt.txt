@@ -1,1 +1,2 @@
 Welcome to Software Mining and Analysis. This is lecture 2
+Another line added into the file from another folder
